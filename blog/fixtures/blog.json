@@ -1,0 +1,35 @@
+[
+    {
+        "model": "blog.BlogPost",
+        "pk": 1,
+        "fields": {
+            "title": "This id first Blog",
+            "body": "this is body. this is body. this is body."
+        }
+    },
+
+    {
+        "model": "blog.BlogPost",
+        "pk": 2,
+        "fields": {
+            "title": "This id first Blog2",
+            "body": " 2 this is body 2. this is body. this is body."
+        }
+    },
+    {
+        "model": "blog.BlogPost",
+        "pk": null,
+        "fields": {
+            "title": "This id first Blog 3",
+            "body": " 3 this is body 3. this is body. this is body."
+        }
+    },
+    {
+        "model": "blog.BlogPost",
+        "pk": null,
+        "fields": {
+            "title": "This id first Blog 4",
+            "body": " 4 this is body 4. this is body. this is body."
+        }
+    }
+]
